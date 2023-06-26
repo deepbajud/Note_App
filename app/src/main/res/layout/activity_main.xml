@@ -10,8 +10,9 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="?actionBarSize"
-        android:text="KeepNotes"
+        android:text="Note App"
         android:textSize="20dp"
+        android:fontFamily="monospace"
         android:textStyle="bold"
         android:textColor="@color/black"
         android:layout_marginLeft="16dp"
@@ -29,8 +30,9 @@
         android:layout_height="wrap_content"
         android:src="@drawable/baseline_add_24"
         android:layout_alignParentBottom="true"
-        android:layout_alignParentRight="true"
-        android:layout_margin="16dp"/>
+        android:layout_alignParentEnd="true"
+        android:layout_margin="16dp"
+        android:contentDescription="TODO" />
 
 
 </RelativeLayout>
