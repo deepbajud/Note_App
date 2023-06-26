@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="?actionBarSize"
-        android:text="KeepNotes"
+        android:text="Note App"
         android:textSize="20dp"
         android:textStyle="bold"
         android:textColor="@color/black"
